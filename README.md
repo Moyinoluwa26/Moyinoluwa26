@@ -1,16 +1,19 @@
-## Hi there 👋
+ # 👋 Hi, I’m Moyin!
 
-<!--
-**Moyinoluwa26/Moyinoluwa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Accounting student at Obafemi Awolowo University with a passion for solving real-world financial problems through code.
 
-Here are some ideas to get you started:
+💻 I build full-stack applications using:
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, JWT
+- **Other Tools:** Git, Formspree, React Native, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently exploring the intersection of **Finance + Technology**, especially how fintech can simplify cash flow, leverage, and profitability insights.
+
+🛠️ Recent Projects:
+- Personal portfolio with contact form + animations
+- Auth-based user system with multi-device control
+- Finance backend API for mock transactions
+
+📫 Reach me: [themoyinguy@gmail.com](mailto:themoyinguy@gmail.com)
+
+Let’s build something awesome together!
